@@ -12,3 +12,4 @@ notebook
 python-dotenv
 matplotlib
 tensorflow
+ipywidgets

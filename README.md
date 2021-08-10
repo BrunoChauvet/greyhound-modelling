@@ -4,7 +4,7 @@
 
 Install python libraries
 ```
-pip install --user --upgrade -r requirements.txt
+pip install --user -r requirements.txt
 ```
 
 Create a configuration file named `.env` in the rot folder and set required values:
@@ -16,3 +16,11 @@ Launch notebook
 ```
 jupyter notebook
 ```
+
+## Notebooks
+
+### Logistic Regression
+
+### Feature Importance
+
+### Models Ensemble
