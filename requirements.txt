@@ -13,3 +13,4 @@ python-dotenv
 matplotlib
 tensorflow
 ipywidgets
+jinja2
