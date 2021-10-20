@@ -6,7 +6,7 @@ This project assume you have a developmemnt environment with [Python](https://ww
 
 Clone project
 ```
-git clone https://github.com/BrunoChauvet/greyhound-modelling.git
+git clone git@github.com:betfair-down-under/autoHubTutorials.git
 ```
 
 Install python libraries
@@ -35,7 +35,7 @@ Below is the list of notebooks with detailed examples
 
 ### Feature Importance
 
-TODO
+[feature_importance](notebook/feature_importance.ipynb) shows how to analyse the contribution of each feature on models.
 
 ### Models Ensemble
 
